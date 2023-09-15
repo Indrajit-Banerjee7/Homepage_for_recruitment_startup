@@ -1,5 +1,5 @@
 # Homepage_for_recruitment_startup
-# Recruitment Startup Website
+
 This repository contains the source code for a recruitment startup website called "Coursify." Coursify is a platform that connects job seekers with recruiters and provides a range of resources for both.
 
 # Table of Contents
