@@ -3,11 +3,11 @@
 This repository contains the source code for a recruitment startup website called "Coursify." Coursify is a platform that connects job seekers with recruiters and provides a range of resources for both.
 
 # Table of Contents
-Description
-Features
-Technologies Used
-How to Use
-Contributing
+1. Description
+2. Features
+3. Technologies Used
+4. How to Use
+5. Contributing
 
 # Description
 Coursify is a modern and responsive website built with HTML, CSS, and Bootstrap. It offers a user-friendly interface for job seekers and recruiters to find the right match. The website includes a navigation bar, informative sections, and a footer.
