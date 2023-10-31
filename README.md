@@ -5,9 +5,8 @@ This repository contains the source code for a recruitment startup website calle
 # Table of Contents
 1. Description
 2. Features
-3. Technologies Used
-4. How to Use
-5. Contributing
+3. How to Use
+4. Contributing
 
 # Description
 Coursify is a modern and responsive website built with HTML, CSS, and Bootstrap. It offers a user-friendly interface for job seekers and recruiters to find the right match. The website includes a navigation bar, informative sections, and a footer.
